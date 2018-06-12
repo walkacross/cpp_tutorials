@@ -111,3 +111,7 @@ it's safe to apply delete to the null pointer(nothing happens).
 
 ## using a dynamic array
 you can using psome[0] instead of *psome for the first element, psome[1] for the second slement, and so on. the reason you can do this it that C and C++ handle arrays internally by using pointers anyway.
+
+
+# pointer, array and pointer arithmetic
+the near equlivalence of pointers and array names stems from pointer arithmetic and how C++ handles array internally.
