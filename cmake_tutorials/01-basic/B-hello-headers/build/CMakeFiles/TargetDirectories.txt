@@ -1,0 +1,3 @@
+/media/allen/c54da21a-a3bc-4c5e-a36c-0a41b6108e59/Programming/Cpp/cmake_tutorials/01-basic/B-hello-headers/build/CMakeFiles/rebuild_cache.dir
+/media/allen/c54da21a-a3bc-4c5e-a36c-0a41b6108e59/Programming/Cpp/cmake_tutorials/01-basic/B-hello-headers/build/CMakeFiles/hello_headers.exe.dir
+/media/allen/c54da21a-a3bc-4c5e-a36c-0a41b6108e59/Programming/Cpp/cmake_tutorials/01-basic/B-hello-headers/build/CMakeFiles/edit_cache.dir
